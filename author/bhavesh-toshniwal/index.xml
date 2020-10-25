@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bhavesh Toshniwal | Practical Networking and Blockchain Lab</title>
-    <link>https://pranet.github.io/author/bhavesh-toshniwal/</link>
-      <atom:link href="https://pranet.github.io/author/bhavesh-toshniwal/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/bhavesh-toshniwal/</link>
+      <atom:link href="/author/bhavesh-toshniwal/index.xml" rel="self" type="application/rss+xml" />
     <description>Bhavesh Toshniwal</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Practical Networking and Blockchain Lab</copyright>
     <image>
-      <url>https://pranet.github.io/author/bhavesh-toshniwal/avatar_hu04c697eb7e3bfed1ad1990541122eeb3_39477_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>/author/bhavesh-toshniwal/avatar_hu04c697eb7e3bfed1ad1990541122eeb3_39477_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Bhavesh Toshniwal</title>
-      <link>https://pranet.github.io/author/bhavesh-toshniwal/</link>
+      <link>/author/bhavesh-toshniwal/</link>
     </image>
     
   </channel>

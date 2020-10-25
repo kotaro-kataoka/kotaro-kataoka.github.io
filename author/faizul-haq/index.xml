@@ -2,14 +2,14 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Faizul Haq | Practical Networking and Blockchain Lab</title>
-    <link>https://pranet.github.io/author/faizul-haq/</link>
-      <atom:link href="https://pranet.github.io/author/faizul-haq/index.xml" rel="self" type="application/rss+xml" />
+    <link>/author/faizul-haq/</link>
+      <atom:link href="/author/faizul-haq/index.xml" rel="self" type="application/rss+xml" />
     <description>Faizul Haq</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Practical Networking and Blockchain Lab</copyright>
     <image>
-      <url>https://pranet.github.io/author/faizul-haq/avatar_huf13d04596cb35fda4c87e6528069788d_436103_270x270_fill_q90_lanczos_center.jpg</url>
+      <url>/author/faizul-haq/avatar_huf13d04596cb35fda4c87e6528069788d_436103_270x270_fill_q90_lanczos_center.jpg</url>
       <title>Faizul Haq</title>
-      <link>https://pranet.github.io/author/faizul-haq/</link>
+      <link>/author/faizul-haq/</link>
     </image>
     
   </channel>
