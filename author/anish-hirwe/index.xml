@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Anish Hirwe | Practical Networking and Blockchain Lab</title>
+    <link>https://pranet.github.io/author/anish-hirwe/</link>
+      <atom:link href="https://pranet.github.io/author/anish-hirwe/index.xml" rel="self" type="application/rss+xml" />
+    <description>Anish Hirwe</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Practical Networking and Blockchain Lab</copyright>
+    <image>
+      <url>https://pranet.github.io/author/anish-hirwe/avatar_hud491df95f565486804d2982c9b5a1386_411412_270x270_fill_q90_lanczos_center.jpg</url>
+      <title>Anish Hirwe</title>
+      <link>https://pranet.github.io/author/anish-hirwe/</link>
+    </image>
+    
+  </channel>
+</rss>
